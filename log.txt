@@ -1,0 +1,10 @@
+log.txt
+
+Date	time spent		to-do
+----------------------------------------------------------
+2/2		4:00			must flesh out the accept function
+						find how to search for "contains"
+						get exact criteria from Rosanna
+2/3		0:30			highlight bad entries
+						use regex for "White Album" ???
+						use small data set first and see
