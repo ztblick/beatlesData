@@ -8,3 +8,6 @@ Date	time spent		to-do
 2/3		0:30			highlight bad entries
 						use regex for "White Album" ???
 						use small data set first and see
+2/9		4:00			implemented all but highlighting
+						frustrated with spec, calling it here
+						happy it worked out though
